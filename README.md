@@ -18,7 +18,7 @@ The application also includes request and error logging using the Winston loggin
    ```
 4. Start the server with:
    ```sh
-   node index.js
+   node calculator-microservice.js
    ```
 
 ## API Endpoints
